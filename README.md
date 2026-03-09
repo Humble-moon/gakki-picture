@@ -212,20 +212,9 @@ http://localhost:8123/api/doc.html
 - 异常统一处理
 - 日志规范
 
-## 贡献指南
-
-1. Fork 本项目
-2. 创建特性分支
-3. 提交代码
-4. 推送到分支
-5. 打开 Pull Request
-
-## 许可证
-
-本项目采用 MIT 许可证。
 
 ## 联系方式
 
 - 项目地址：https://github.com/yourusername/Java-gakki-picture
 - 作者：Gakki
-- 邮箱：your.email@example.com
+- 邮箱：2532371880@qq.com
