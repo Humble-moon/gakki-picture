@@ -215,6 +215,6 @@ http://localhost:8123/api/doc.html
 
 ## 联系方式
 
-- 项目地址：https://github.com/yourusername/Java-gakki-picture
+- 项目地址：https://github.com/Humble-moon/gakki-picture
 - 作者：Gakki
 - 邮箱：2532371880@qq.com
